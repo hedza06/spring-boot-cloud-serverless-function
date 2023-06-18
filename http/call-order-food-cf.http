@@ -1,0 +1,8 @@
+POST http://localhost:8080/orderFood
+Accept: text/plain
+
+{
+    "name": "Sendwich with Salmon",
+    "price": 6.00,
+    "quantity": 1
+}

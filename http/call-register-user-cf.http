@@ -1,0 +1,9 @@
+POST http://localhost:8080/registerUser
+Accept: text/plain
+
+{
+    "firstName": "Heril",
+    "lastName": "Muratovic",
+    "email": "hedzaprog@gmail.com",
+    "address": "Address Line 1"
+}
